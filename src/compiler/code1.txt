@@ -1,0 +1,40 @@
+ class ahmed{
+ //public  id(){
+
+//}
+
+int a;
+//a=3;
+A fuc(int a,int a){
+int a[][]=new int[2][2];
+int a[]={1,2,3,4};
+int a[]={(1,2),(3,4)};
+while(a->b->c++ *a->b[a->b()][e]->a()){
+//a->b->c[9].fn()=a++;
+
+}
+}
+int a;
+//a=3;
+void fuc(){
+while(true){
+
+
+}
+}
+
+}
+
+class bilal{
+
+
+
+
+
+}
+
+class munim{
+
+
+}
+
